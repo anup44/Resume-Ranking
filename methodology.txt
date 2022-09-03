@@ -1,0 +1,9 @@
+categorise
+
+1. Retrieve data like Work experirnce in years, region/country, classify resume by role, industry, functional area
+2. Filter based on jd requirements on above retrieved data 
+3. High Level score comparing sections of resume and jds using sentence encoders
+4. identify soft skills and technical skills (ner / fuzzymatch / n-grams / knowledge base)
+5. (optional) granular level context relevance using embeddings
+6. Compute tie breaker scores using experience, industry relevance, etc
+7. Using all the scores rank resumes for jds

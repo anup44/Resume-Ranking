@@ -1,0 +1,20 @@
+Alternatives to this pickle (input text -> skill or not)
+https://www.kaggle.com/promptcloud/jobs-on-naukricom
+https://towardsdatascience.com/keyword-extraction-process-in-python-with-natural-language-processing-nlp-d769a9069d5c
+https://github.com/LIAAD/yake
+https://towardsdatascience.com/keyword-extraction-python-tf-idf-textrank-topicrank-yake-bert-7405d51cd839
+
+
+
+Job Function classification alternatives
+https://www.kaggle.com/promptcloud/jobs-on-naukricom
+https://github.com/mrciolino/Job-Tag-Classifier
+https://github.com/rootstrap/ai-job-title-area-classification/blob/master/README.md
+https://www.kaggle.com/niyamatalmass/google-job-skills
+
+Max num words in skill dict
+skills with number combination
+Total number of resumes to build corpus
+Explore the pickle
+
+
